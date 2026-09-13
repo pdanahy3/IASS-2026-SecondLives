@@ -11,6 +11,10 @@ venv/
 # Jupyter / notebook outputs
 *.ipynb_checkpoints
 
+# Rhino backups and open-file locks (the .3dm models themselves are tracked)
+*.3dmbak
+*.rhl
+
 # OS / editor cruft
 .DS_Store
 Thumbs.db
