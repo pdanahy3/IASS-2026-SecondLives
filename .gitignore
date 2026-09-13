@@ -1,0 +1,18 @@
+# Archives (extracted copies are tracked instead)
+*.zip
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.ipynb_checkpoints/
+
+# Jupyter / notebook outputs
+*.ipynb_checkpoints
+
+# OS / editor cruft
+.DS_Store
+Thumbs.db
+desktop.ini
+*.swp

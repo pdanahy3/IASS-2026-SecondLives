@@ -1,0 +1,3 @@
+# Keep data files byte-stable across platforms so diffs stay meaningful
+*.csv text eol=lf
+*.md text eol=lf
