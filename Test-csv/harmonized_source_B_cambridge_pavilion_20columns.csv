@@ -1,0 +1,33 @@
+element_id,source,material_type,section_or_species,length_ft,reusable_length_ft,mass_kg,percent_reusable,embodied_carbon_savings_kgco2e,cost,locatoin,condition_grade,inspection_status,storage_type,quantity,supplier_code,transport_distance_km,lead_time_days,reuse_priority,batch_number
+SHADE_ROOF__CABLE_0_4,B_cambridge_pavilion,Steel,#NotDesigned,,0.0,,,0.0,2620,Trieste,B,Pending,Outdoor,2,SUP-009,598,47,High,BATCH-117
+SHADE_BASE__BEM_0_4,B_cambridge_pavilion,Steel,W14X159,,36.63,2641.7990735829003,,3842.142,2158,Torino,C,Passed,Indoor,7,SUP-043,146,49,Medium,BATCH-800
+SHADE_BASE__COL_0_8,B_cambridge_pavilion,Steel,W6x12,,0.0,0.0,,0.0,4821,Siena,C,Review required,Outdoor,23,SUP-051,629,52,Low,BATCH-958
+SHADE_BASE__COL_0_3,B_cambridge_pavilion,Steel,W8x40,,10.417,189.00286873160002,,274.211,3999,Padova,A,Review required,Covered,27,SUP-084,405,35,High,BATCH-435
+SHADE_ROOF__CABLE_0_8,B_cambridge_pavilion,Steel,#NotDesigned,,0.0,,,0.0,741,Roma,B,Passed,Covered,29,SUP-072,263,51,Low,BATCH-233
+SHADE_PRIMARY__BEM_0_3,B_cambridge_pavilion,Steel,W8x31,,14.57,204.8740657579,,182.178,2805,Perugia,A,Passed,Indoor,9,SUP-034,721,4,Low,BATCH-063
+SHADE_BASE__COL_0_11,B_cambridge_pavilion,Steel,W6x12,,0.0,0.0,,0.0,2806,Venezia,C,Pending,Outdoor,15,SUP-037,728,10,High,BATCH-290
+SHADE_BASE__COL_0_4,B_cambridge_pavilion,Steel,W8x40,,10.417,189.00286873160002,,274.211,114,Trieste,A,Review required,Outdoor,26,SUP-096,112,30,High,BATCH-461
+SHADE_ROOF__CABLE_0_7,B_cambridge_pavilion,Steel,#NotDesigned,,0.0,,,0.0,4732,Palermo,B,Pending,Indoor,29,SUP-009,365,48,Low,BATCH-337
+SHADE_ROOF__CABLE_0_10,B_cambridge_pavilion,Steel,#NotDesigned,,0.0,,,0.0,4455,Milano,B,Review required,Indoor,2,SUP-058,406,39,Medium,BATCH-338
+SHADE_BASE__BEM_0_1,B_cambridge_pavilion,Steel,W14X159,,0.0,0.0,,0.0,2639,Milano,A,Review required,Outdoor,5,SUP-040,503,47,Medium,BATCH-595
+SHADE_ROOF__BEM_0_2,B_cambridge_pavilion,Steel,HSS4.5X.337,,14.863,,,146.649,1124,Siena,B,Passed,Indoor,12,SUP-080,112,4,Low,BATCH-496
+SHADE_BASE__COL_0_9,B_cambridge_pavilion,Steel,W6x12,,0.0,0.0,,0.0,803,Bologna,A,Pending,Covered,21,SUP-049,590,38,Medium,BATCH-907
+SHADE_BASE__BEM_0_3,B_cambridge_pavilion,Steel,W14X159,,36.63,2641.7990735829003,,3842.142,1024,Palermo,B,Pending,Covered,28,SUP-058,12,42,Medium,BATCH-204
+SHADE_ROOF__CABLE_0_2,B_cambridge_pavilion,Steel,#NotDesigned,,0.0,,,0.0,3722,Bari,C,Pending,Outdoor,6,SUP-084,492,51,Low,BATCH-393
+SHADE_BASE__COL_0_2,B_cambridge_pavilion,Steel,W8x40,,14.0,254.01172720000002,,368.539,2343,Padova,A,Pending,Outdoor,27,SUP-059,509,6,High,BATCH-504
+SHADE_PRIMARY__BEM_0_2,B_cambridge_pavilion,Steel,W8x31,,34.611,486.6778510601699,,432.778,131,Verona,C,Passed,Covered,23,SUP-011,681,22,High,BATCH-388
+SHADE_BASE__COL_0_5,B_cambridge_pavilion,Steel,W6x12,,0.0,0.0,,0.0,548,Bologna,B,Passed,Covered,14,SUP-059,712,29,High,BATCH-045
+SHADE_BASE__COL_0_6,B_cambridge_pavilion,Steel,W6x12,,0.0,0.0,,0.0,2094,Pisa,B,Pending,Outdoor,18,SUP-009,155,28,Low,BATCH-294
+SHADE_BASE__COL_0_1,B_cambridge_pavilion,Steel,W8x40,,14.0,254.01172720000002,,368.539,2931,Milano,C,Passed,Indoor,26,SUP-066,164,53,Medium,BATCH-944
+SHADE_ROOF__CABLE_0_6,B_cambridge_pavilion,Steel,#NotDesigned,,0.0,,,0.0,2566,Venezia,C,Passed,Covered,4,SUP-039,213,2,High,BATCH-642
+SHADE_ROOF__CABLE_0_1,B_cambridge_pavilion,Steel,#NotDesigned,,0.0,,,0.0,4645,Palermo,C,Review required,Indoor,25,SUP-075,68,19,Medium,BATCH-987
+SHADE_ROOF__BEM_0_1,B_cambridge_pavilion,Steel,HSS4.5X.337,,14.863,,,146.649,1512,Bari,C,Review required,Covered,24,SUP-016,137,8,High,BATCH-735
+SHADE_ROOF__CABLE_0_3,B_cambridge_pavilion,Steel,#NotDesigned,,0.0,,,0.0,2432,Napoli,C,Passed,Indoor,21,SUP-055,579,42,Medium,BATCH-472
+SHADE_ROOF__CABLE_0_9,B_cambridge_pavilion,Steel,#NotDesigned,,0.0,,,0.0,2515,Palermo,B,Passed,Outdoor,14,SUP-069,691,44,Low,BATCH-256
+SHADE_BASE__COL_0_10,B_cambridge_pavilion,Steel,W6x12,,0.0,0.0,,0.0,3381,Milano,A,Review required,Covered,13,SUP-064,315,46,High,BATCH-759
+SHADE_BASE__BEM_0_5,B_cambridge_pavilion,Steel,W14X159,,0.0,0.0,,0.0,3060,Torino,C,Pending,Outdoor,24,SUP-027,783,31,Medium,BATCH-932
+SHADE_BASE__COL_0_7,B_cambridge_pavilion,Steel,W6x12,,0.0,0.0,,0.0,3767,Siena,A,Passed,Indoor,11,SUP-060,200,12,Medium,BATCH-629
+SHADE_BASE__BEM_0_6,B_cambridge_pavilion,Steel,W14X159,,0.0,0.0,,0.0,2332,Parma,A,Pending,Covered,9,SUP-007,267,26,Low,BATCH-584
+SHADE_PRIMARY__BEM_0_1,B_cambridge_pavilion,Steel,W8x31,,14.57,204.8740657579,,182.178,4059,Siena,B,Review required,Outdoor,2,SUP-012,410,56,Medium,BATCH-089
+SHADE_ROOF__CABLE_0_5,B_cambridge_pavilion,Steel,#NotDesigned,,0.0,,,0.0,525,Genova,A,Pending,Indoor,20,SUP-064,590,58,Medium,BATCH-641
+SHADE_BASE__BEM_0_2,B_cambridge_pavilion,Steel,W14X159,,0.0,0.0,,0.0,4814,Milano,B,Pending,Covered,29,SUP-091,677,60,High,BATCH-588
